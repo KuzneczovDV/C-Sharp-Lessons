@@ -1,6 +1,10 @@
 .vagrant
 /cookbooks
 
+.vscode/*
+bin/
+obj/
+
 # Bundler
 bin/*
 .bundle/*
